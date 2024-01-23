@@ -152,8 +152,9 @@ Para ejecutar este flow, es necesario lo siguiente
    
 ### Instrucciones de operación
 1. Nos vamos a nuestro wokwi en donde nuestro simulador ya esta corriendo
-   
-![](hhttps://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/resultadoo.png)
+
+![](https://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/resultadoo.png)   
+
 
 ## Resultados
 
