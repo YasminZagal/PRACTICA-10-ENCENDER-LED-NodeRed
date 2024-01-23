@@ -143,11 +143,10 @@ Para ejecutar este flow, es necesario lo siguiente
 
 ![](https://github.com/YasminZagal/PRACTICA-N-8-NodeRed-CON-DHT22/blob/main/direccion%20ip.png)   
 
-![](https://github.com/YasminZagal/PRACTICA-N-8-NodeRed-CON-DHT22/blob/main/conf1.png)  
 
 5. En la configuracion del **SWITCH** lo seleccionamos con doble click 
 
-![](hhttps://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/configuracion%20switch.png)
+![](https://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/configuracion%20switch.png)
 
 
    
