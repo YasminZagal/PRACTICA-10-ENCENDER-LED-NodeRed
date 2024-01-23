@@ -139,19 +139,20 @@ Para ejecutar este flow, es necesario lo siguiente
  ![](https://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/nodos.png)
   
 4. Para la configuracion del mqtt out necesitaremos saber nuestra ip, que se saca de la siguiente manera:
-   cmd --> nslookup broker.hivemq.com --> copiamos los numeros de la parte que dice addresses --> nos dirigimos a nodered --> seleccionamos mqtt in --> damos click en el icono del lapiz --> en la parte de server se pegara la direccion ip que copiamos --> update --> done
+   cmd --> nslookup broker.hivemq.com --> copiamos los numeros de la parte que dice addresses --> nos dirigimos a nodered --> seleccionamos mqtt out --> damos click en el icono del lapiz --> en la parte de server se pegara la direccion ip que copiamos --> update --> done
 
-![](https://github.com/YasminZagal/PRACTICA-N-8-NodeRed-CON-DHT22/blob/main/direccion%20ip.png)   
+-Tambien requeriremos de colocar un nombre en la parte donde dice Topic
+
+![](https://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/configuracion%20mqtt%20out.png)   
 
 
 5. En la configuracion del **SWITCH** lo seleccionamos con doble click 
 
 ![](https://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/configuracion%20switch.png)
-
-
    
 ### Instrucciones de operación
 1. Nos vamos a nuestro wokwi en donde nuestro simulador ya esta corriendo
+   
 ![](hhttps://github.com/YasminZagal/PRACTICA-10-ENCENDER-LED-NodeRed/blob/main/resultadoo.png)
 
 ## Resultados
